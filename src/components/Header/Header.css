@@ -1,0 +1,12 @@
+.header {
+  background-color: burlywood;
+  background-repeat: repeat;
+  min-height: 10px;
+  padding: 100px 10px; 
+  text-align: center;
+  color : darkgreen; 
+}
+.header h1 {
+  margin: 0;
+  font-size: 3rem;
+}
