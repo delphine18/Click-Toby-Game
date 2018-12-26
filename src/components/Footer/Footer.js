@@ -4,7 +4,7 @@ import "./Footer.css";
 const Footer = () => (
   <footer className="footer">
     <div className="bottom">
-      Toby Game!
+      Toby Game!<img alt="react" src="images/react.svg" />
     </div>
   </footer>
 );
